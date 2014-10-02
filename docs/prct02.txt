@@ -1,1 +1,5 @@
 Trabajo en equipo con git
+
+Un interprete, traduce el programa en lenguaje máquina escrito a tiempo de ejecucción. Este no crea un nuevo fichero ejecutable.
+
+El compliador, traduce el programa a lenguaje máquina y crea un fichero nuevo conocido como el ejecutable.
