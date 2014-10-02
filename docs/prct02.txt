@@ -1,5 +1,13 @@
 Trabajo en equipo con git
 
-Un interprete, traduce el programa en lenguaje máquina escrito a tiempo de ejecucción. Este no crea un nuevo fichero ejecutable.
+-Diferecia entre compilación e interpretación:
 
-El compliador, traduce el programa a lenguaje máquina y crea un fichero nuevo conocido como el ejecutable.
+Un interpretación, traduce el programa en lenguaje máquina escrito a tiempo de ejecucción. Este no crea un nuevo fichero ejecutable.
+
+El compliación, traduce el programa a lenguaje máquina y crea un fichero nuevo conocido como el ejecutable.
+
+- Diferencia entre helloWorld.sh y helloWorld.rb
+
+helloWorld.sh es un script, que permite ejecutarlo directamente. Empieza con "#!", que contiene la ruta hacia el interprete adecuado.
+En el helloWorld.rb hay que indicar el direcotrio que esta instalado el RVM. A parte en este fichero hay que cambiar los permisos.
+
